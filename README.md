@@ -80,7 +80,7 @@ Analyze the data to see if any of the portfolios outperform the stock market (i.
 3. Choose one portfolio, then calculate and plot the 60-day rolling beta between it and the S&P 500.
     ![rolling](Images/rolling_beta_plot.jpeg)
 
-## Rolling Statistics with xponentially Weighted Average
+## Rolling Statistics with Exponentially Weighted Average
 
 An alternative method to calculate a rolling window is to take the exponentially weighted moving average. This is like a moving window average, but it assigns greater importance to more recent observations. Try calculating the [`ewm`](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.ewm.html) with a 21-day half-life.
 
