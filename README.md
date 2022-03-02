@@ -19,14 +19,17 @@ Analyze the data to see if any of the portfolios outperform the stock market (i.
 ## Performance Analysis
 
 1. Calculate and plot daily returns of all sample portfolios.
+
     ![returns](Images/returns_plot.jpeg)
 
 2. Calculate and plot cumulative returns for all sample portfolios. Does any portfolio outperform the S&P 500?
+
     ![cumulative_returns](Images/cumulative_returns_plot.jpeg)
 
 ## Risk Analysis
 
 1. Create a box plot for each of the returns.
+
     ![box_plot](Images/box_plot.jpeg)
 
 2. Calculate the standard deviation for each portfolio.
