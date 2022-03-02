@@ -1,6 +1,6 @@
 # Whale Analysis
 
-Tool that analyzes and visualizes the major metrics of sample stock portfolios and determines the best-performer. Add a custom portfolio that you'd like to analyze against the others.
+Stock Portfolio Analysis Tool for analyzing and visualizing the major metrics of sample stock portfolios and determining best-performers. You may add a custom portfolio that you'd like to analyze against the others.
 
 Source Code: [`whale_analysis.ipynb`](whale_analysis.ipynb)
 
