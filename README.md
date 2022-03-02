@@ -1,8 +1,8 @@
 # Whale Analysis
 
-Stock Portfolio Analysis Tool for analyzing and visualizing the major metrics of portfolio performance. You may add a custom portfolio that you'd like to analyze against the others.
+- Stocks Portfolio Analysis Tool. You may add a custom portfolio that you'd like to analyze against the others.
 
-Source Code: [`whale_analysis.ipynb`](whale_analysis.ipynb)
+- Source Code: [`whale_analysis.ipynb`](whale_analysis.ipynb)
 
 # Required Datasets
 
